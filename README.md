@@ -4,9 +4,9 @@ This page was initially started for hosting the code and documentation that I wr
 
 ### Relevant Classwork
 
-1. [Math 4610 Software Manual](https://github.com/Christopher42/computational-mathematics/blob/master/README)
+1. [Math 4610 Software Manual](https://christopher42.github.io/computational-mathematics/main)
 2. [foo](https://jvkoebbe.github.io/math4610/main)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I may be contacted through my github account (Christopher42) with any questions.
