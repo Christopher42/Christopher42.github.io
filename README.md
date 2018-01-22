@@ -4,7 +4,7 @@ This page was initially started for hosting the code and documentation that I wr
 
 ### Relevant Classwork
 
-1. [Math 4610 Software Manual](https://christopher42.github.io/computational-mathematics/)
+1. [Numerical Library](https://christopher42.github.io/computational-mathematics/)
 
 ### Support or Contact
 All code is provided without warranty. Pull requests welcome. Please contact me through my github account (Christopher42) with any questions.
